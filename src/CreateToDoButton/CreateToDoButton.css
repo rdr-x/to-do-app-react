@@ -1,0 +1,26 @@
+.add-Container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.CreateToDoButton {
+    padding: 1rem;
+    font-size: 2.1rem;
+    margin-top: 1rem;
+    margin-left: 0;
+    margin-right: 1rem;
+    border: none;
+    border-radius: 50px;
+    box-shadow: rgb(150, 66, 161) 3px 3px 34px 3px;
+    width: 50%;
+    background-color: rgba(255, 166, 0, 0.123);
+    color: rgb(104, 100, 100);
+    z-index: 1;
+}
+
+.CreateToDoButton:hover {
+    background-color: rgb(238, 189, 133);
+    border: 2px solid rgb(245, 140, 21);
+}

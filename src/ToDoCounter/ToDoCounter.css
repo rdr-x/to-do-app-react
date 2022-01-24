@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(181, 105, 224, 0.692);
+    max-width: 89%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ToDoCounter {
+    color: rgb(104, 100, 100);
+    margin-left: 20px;
+    margin-right: 0;
+    font-size: 3rem;
+    width: 89%;
+    text-align: center;
+    padding: 2rem;
+    border-radius: 50px;
+    background-color: rgba(255, 166, 0, 0.123);
+    box-shadow: rgb(150, 66, 161) 3px 3px 34px 3px;
+}
